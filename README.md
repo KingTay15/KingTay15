@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Modding
 - 🌱 I’m currently learning ...How to mod
 - 💞️ I’m looking to collaborate on ...creating/developing an extensive resource/Player mod 
-- 📫 How to reach me ...
+- 📫 How to reach me ...via email @ kingtaymob5@hotmail.com 
 
 <!---
 KingTay15/KingTay15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
